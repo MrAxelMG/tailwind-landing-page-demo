@@ -34,7 +34,7 @@ function App() {
           <div>
             <h3 className="text-2xl font-bold mb-2">IMAGE</h3>
             <p className="text-justify">
-            La primera opción de configuración es image, image sirve para determinar qué imagen se va utilizar para ejecutar el runner. Hay que recordar que, en su nivel más básico, los trabajos de CI son simplemente automatización de script, se tiene que determinar qué ambiente necesita el script para correr de manera exitosa. ¿Necesitas instalar dependencias desde NPM y ejecutar scripts de package.json? Entonces es muy probable que la imagen de Node sirva como base. Quizá se necesite correr pruebas unitarias de una aplicación de Python e instalar dependencias desde PyPi; entonces se debería instalar la imagen de Pyt
+            La primera opción de configuración, es image, image sirve para determinar qué imagen se va utilizar para ejecutar el runner. Hay que recordar que, en su nivel más básico, los trabajos de CI son simplemente automatización de script, se tiene que determinar qué ambiente necesita el script para correr de manera exitosa. ¿Necesitas instalar dependencias desde NPM y ejecutar scripts de package.json? Entonces es muy probable que la imagen de Node sirva como base. Quizá se necesite correr pruebas unitarias de una aplicación de Python e instalar dependencias desde PyPi; entonces se debería instalar la imagen de Pyt
             </p>
           </div>
           <div>
