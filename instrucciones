@@ -1,0 +1,39 @@
+1.- Importa el proyecto de react que se encuentra dentro de esta carpeta.
+
+2.- Agrega los datos que se piden en el diseño de react:
+
+    - cuenta git
+    - cuenta git lab    
+    - correo
+
+3.- Ejecuta el proyecto y confirma los cambios.
+
+4.- Importa el proyecto a un subdominio para poder visualizar en tiempo real el proyecto react.
+
+Git Lab
+
+1.- Crea un mileston llamado practica_react
+
+2.- Crea un issue llamado apellido_dominio
+
+    - Agrega una etiqueta llamada dominio(color azul).
+    - Asigna el mileston practica_react.
+    - Asigna un tiempo estimado de 2 horas.
+    - Consume al menos 1 hora.
+    - La due date es el 10 de agosto.
+    - Comenta al usuario @ingreyeslara dentro del issue para que esté enterado del avance del proyecto.
+    - Escribe dentro del issue en que subdominio se encuentra corriendo el proyecto.
+    - El usuario @ingreyeslara deberá cerrar el issue.
+
+3.- Dentro del issue apellido_dominio:
+
+    - Crea un merge request, llamado codigo_cambios_datos_alumno.
+    - Asignale la misma etiqueta y el mismo milestone.
+
+4.- Dentro del visual studio code:
+
+    - Realiza un commit con los cambios mencionados en el paso 2
+    - El commit se realiza a la branch creada por el  merge request.
+    - Una vez terminado el commit, comenta al usuario @ingreyeslara, que la actividad se encuentra realizada con éxito
+    - El usuario @ingreyeslara debera cerrar el merge request.
+  
