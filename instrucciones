@@ -37,3 +37,7 @@ Git Lab
     - Una vez terminado el commit, comenta al usuario @ingreyeslara, que la actividad se encuentra realizada con éxito
     - El usuario @ingreyeslara debera cerrar el merge request.
   
+cd existing_repo
+git remote add origin https://gitlab.com/axel_3041190034/gurrola_actividad.git
+git branch -M main
+git push -uf origin main
